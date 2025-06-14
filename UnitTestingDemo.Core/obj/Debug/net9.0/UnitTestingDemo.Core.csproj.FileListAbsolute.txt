@@ -1,0 +1,12 @@
+F:\lab4\UnitTestingDemo\UnitTestingDemo.Core\bin\Debug\net9.0\UnitTestingDemo.Core.deps.json
+F:\lab4\UnitTestingDemo\UnitTestingDemo.Core\bin\Debug\net9.0\UnitTestingDemo.Core.dll
+F:\lab4\UnitTestingDemo\UnitTestingDemo.Core\bin\Debug\net9.0\UnitTestingDemo.Core.pdb
+F:\lab4\UnitTestingDemo\UnitTestingDemo.Core\obj\Debug\net9.0\UnitTestingDemo.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\lab4\UnitTestingDemo\UnitTestingDemo.Core\obj\Debug\net9.0\UnitTestingDemo.Core.AssemblyInfoInputs.cache
+F:\lab4\UnitTestingDemo\UnitTestingDemo.Core\obj\Debug\net9.0\UnitTestingDemo.Core.AssemblyInfo.cs
+F:\lab4\UnitTestingDemo\UnitTestingDemo.Core\obj\Debug\net9.0\UnitTestingDemo.Core.csproj.CoreCompileInputs.cache
+F:\lab4\UnitTestingDemo\UnitTestingDemo.Core\obj\Debug\net9.0\UnitTestingDemo.Core.dll
+F:\lab4\UnitTestingDemo\UnitTestingDemo.Core\obj\Debug\net9.0\refint\UnitTestingDemo.Core.dll
+F:\lab4\UnitTestingDemo\UnitTestingDemo.Core\obj\Debug\net9.0\UnitTestingDemo.Core.pdb
+F:\lab4\UnitTestingDemo\UnitTestingDemo.Core\obj\Debug\net9.0\ref\UnitTestingDemo.Core.dll
+F:\lab4\UnitTestingDemo\UnitTestingDemo.Core\obj\Debug\net9.0\UnitTestingDemo.Core.sourcelink.json
